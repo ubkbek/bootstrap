@@ -1,11 +1,7 @@
-.circle{
-   margin-bottom: -28px;
-}
-
 body{
-   background-color: #004047;
+   font-family: Montserrat, Arial, sans-serif;
 }
 
-h3{
-   color: #79C8C7;
+.text{
+   max-width: 380px;
 }
